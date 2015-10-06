@@ -1,2 +1,9 @@
-# adkim147.github.io
-another website
+# [Website](http://adkim.github.io/)
+
+This is mine
+
+and apparently owned by pccs
+
+so its not mine
+
+whatever
